@@ -1,0 +1,29 @@
+@font-face
+{
+   font-family: "pressStart2P";
+   src: url("PressStart2P.woff") format("woff"),
+        url("PressStart2P.ttf") format("truetype")
+}
+
+body{
+  font-family: 'pressStart2P', cursive;
+  background-image: url(fondo.png);
+  background-size: cover;
+}
+
+nav{
+  font-size: 0.57em;
+  margin-bottom: 2%; 
+}
+
+#log{
+  text-align: center;
+  font-size: 1.2em;
+  color: white;
+}
+
+#max{
+  color: white;
+  text-align: center;
+  font-size: 1.2em;
+}
