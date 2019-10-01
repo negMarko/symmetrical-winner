@@ -6,6 +6,7 @@
 }
 
 body{
+   width: 100wv;
   font-family: 'pressStart2P', cursive;
   background-image: url(fondo.png);
   background-size: cover;
@@ -13,7 +14,7 @@ body{
 
 nav{
   font-size: 0.57em;
-  margin-bottom: 2%; 
+  margin-bottom: 1%; 
 }
 
 #log{
